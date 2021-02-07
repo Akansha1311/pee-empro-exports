@@ -270,3 +270,7 @@ input[type="submit"] {
   align-self: center;
   margin-top: 120px;
 }
+.available__main h3 {
+color: white;
+text-transform: capitalize;
+}
